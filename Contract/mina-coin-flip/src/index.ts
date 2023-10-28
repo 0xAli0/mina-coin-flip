@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { CoinFlip } from './CoinFlip.js';
 
-export { Add };
+export { CoinFlip };
